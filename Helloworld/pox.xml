@@ -1,6 +1,0 @@
- <project>
- <groupId>net.authorize.sample</groupId>
-	<artifactId>Helloworld</artifactId>	
-	<version>1.0</version>
-    <packaging>jar</packaging>
- </project>
